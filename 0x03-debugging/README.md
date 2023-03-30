@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #C - Debugging
 
 #TASKS.
@@ -20,3 +21,6 @@ This program prints the largest of three integers.
 3. Leap year
 mandatory
 This program converts a date to the day of year and determines how many days are left in the year, taking leap year into consideration.
+=======
+Debbuging Readme
+>>>>>>> 60436f6cf68061673ec000edd190d88bd337eb9e

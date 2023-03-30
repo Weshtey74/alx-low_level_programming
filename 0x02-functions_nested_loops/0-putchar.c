@@ -5,6 +5,10 @@
  * Return: 0
  */
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 60436f6cf68061673ec000edd190d88bd337eb9e
 int main(void)
 {
 _putchar('_');
