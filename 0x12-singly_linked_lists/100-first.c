@@ -1,10 +1,12 @@
 #include <stdio.h>
 
+void first(void) __attribute__ ((constructor));
+
 /**
 *first - This function prints a sentence before the main
 *Return: The function is executed
 */
-void first(void) __attribute__ ((constructor));
+
 void first(void)
 {
 	printf("You're beat! and yet, you must allow\n");
